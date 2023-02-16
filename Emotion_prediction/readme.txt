@@ -1,5 +1,5 @@
 Details:
-A program to predict emotional state of subjects given their EEG reading while watching various movie clips. 
+A program to predict emotional state of subjects given their EEG readings while watching various movie clips. 
 
 Model:
 The model used here is Recurrent Neural Network (RNN).
